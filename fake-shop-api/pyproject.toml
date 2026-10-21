@@ -1,0 +1,34 @@
+[project]
+name = "fake-shop-api"
+version = "0.1.0"
+description = "Fake e-commerce backend (FastAPI + SQLite) that the MCP servers call"
+readme = "README.md"
+authors = [
+    { name = "Sofikul Mallick", email = "sofikul.projects@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[build-system]
+requires = ["uv_build>=0.9.5,<0.10.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "httpx>=0.27",
+    "httpx2>=2.13.1",
+    "pytest>=9.1.1",
+    "ruff>=0.17.0",
+]
+
+[project.scripts]
+fake-shop-api = "fake_shop_api.app:main"
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

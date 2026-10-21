@@ -1,0 +1,164 @@
+[
+  {
+    "id": "P001",
+    "name": "Wireless Mouse",
+    "category": "electronics",
+    "price": 799,
+    "stock": 47,
+    "description": "Ergonomic 2.4GHz wireless mouse. Specs: 1600 DPI, 2.4GHz USB receiver, 1 AA battery, 3 buttons",
+    "image_url": "https://picsum.photos/seed/P001/400/300"
+  },
+  {
+    "id": "P002",
+    "name": "Mechanical Keyboard",
+    "category": "electronics",
+    "price": 4999,
+    "stock": 18,
+    "description": "Hot-swappable RGB mechanical keyboard. Specs: 87 keys, hot-swappable switches, RGB backlight, USB-C wired",
+    "image_url": "https://picsum.photos/seed/P002/400/300"
+  },
+  {
+    "id": "P003",
+    "name": "USB-C Hub",
+    "category": "electronics",
+    "price": 2499,
+    "stock": 35,
+    "description": "7-in-1 USB-C hub with HDMI. Specs: HDMI 4K@30Hz, 2 USB-A 3.0, SD/microSD, 100W PD charging",
+    "image_url": "https://picsum.photos/seed/P003/400/300"
+  },
+  {
+    "id": "P004",
+    "name": "Running Shoes",
+    "category": "apparel",
+    "price": 3499,
+    "stock": 15,
+    "description": "Lightweight breathable running shoes. Specs: Mesh upper, cushioned EVA sole, 260g, UK sizes 6-11",
+    "image_url": "https://picsum.photos/seed/P004/400/300"
+  },
+  {
+    "id": "P005",
+    "name": "Cotton T-Shirt",
+    "category": "apparel",
+    "price": 599,
+    "stock": 100,
+    "description": "Soft 100% cotton crew-neck tee. Specs: 100% cotton, 180 GSM, regular fit, sizes S-XXL",
+    "image_url": "https://picsum.photos/seed/P005/400/300"
+  },
+  {
+    "id": "P006",
+    "name": "Steel Water Bottle",
+    "category": "home",
+    "price": 699,
+    "stock": 60,
+    "description": "Insulated 750ml stainless bottle. Specs: 750ml, 18/8 stainless steel, keeps cold 24h / hot 12h, leak-proof",
+    "image_url": "https://picsum.photos/seed/P006/400/300"
+  },
+  {
+    "id": "P007",
+    "name": "Desk Lamp",
+    "category": "home",
+    "price": 1299,
+    "stock": 24,
+    "description": "Dimmable LED desk lamp. Specs: LED, 3 colour temperatures, touch dimmer, USB powered, 9W",
+    "image_url": "https://picsum.photos/seed/P007/400/300"
+  },
+  {
+    "id": "P008",
+    "name": "Bluetooth Headphones",
+    "category": "electronics",
+    "price": 1999,
+    "stock": 30,
+    "description": "Over-ear wireless headphones with 30-hour battery. Specs: Bluetooth 5.0, over-ear, 40mm drivers, 20h playback, built-in mic",
+    "image_url": "https://picsum.photos/seed/P008/400/300"
+  },
+  {
+    "id": "P009",
+    "name": "Power Bank 20000mAh",
+    "category": "electronics",
+    "price": 1599,
+    "stock": 40,
+    "description": "Fast-charging portable power bank with dual USB output. Specs: 20000mAh, 22.5W fast charge, 2 USB-A + 1 USB-C, LED indicator",
+    "image_url": "https://picsum.photos/seed/P009/400/300"
+  },
+  {
+    "id": "P010",
+    "name": "Denim Jacket",
+    "category": "apparel",
+    "price": 2799,
+    "stock": 20,
+    "description": "Classic regular-fit denim jacket. Specs: Cotton denim, button front, 2 chest pockets, sizes S-XL",
+    "image_url": "https://picsum.photos/seed/P010/400/300"
+  },
+  {
+    "id": "P011",
+    "name": "Hooded Sweatshirt",
+    "category": "apparel",
+    "price": 1799,
+    "stock": 35,
+    "description": "Warm fleece-lined pullover hoodie. Specs: Cotton-poly fleece, kangaroo pocket, drawstring hood, sizes S-XXL",
+    "image_url": "https://picsum.photos/seed/P011/400/300"
+  },
+  {
+    "id": "P012",
+    "name": "Cotton Bedsheet Set",
+    "category": "home",
+    "price": 1499,
+    "stock": 25,
+    "description": "Double bedsheet with two pillow covers, 300 thread count. Specs: Cotton, 1 double sheet + 2 pillow covers, 144 thread count, machine washable",
+    "image_url": "https://picsum.photos/seed/P012/400/300"
+  },
+  {
+    "id": "P013",
+    "name": "Ceramic Coffee Mug Set",
+    "category": "home",
+    "price": 899,
+    "stock": 50,
+    "description": "Set of 4 glazed ceramic mugs, 300ml each. Specs: Set of 4 mugs, 300ml each, glazed ceramic, dishwasher safe",
+    "image_url": "https://picsum.photos/seed/P013/400/300"
+  },
+  {
+    "id": "P014",
+    "name": "Wired Earphones",
+    "category": "electronics",
+    "price": 499,
+    "stock": 90,
+    "description": "In-ear wired earphones with mic. Specs: 3.5mm jack, 10mm drivers, inline remote, 1.2m cable",
+    "image_url": "https://picsum.photos/seed/P014/400/300"
+  },
+  {
+    "id": "P015",
+    "name": "True Wireless Earbuds",
+    "category": "electronics",
+    "price": 2499,
+    "stock": 55,
+    "description": "Compact true wireless earbuds with charging case. Specs: Bluetooth 5.3, 6h + 18h case, IPX4, touch controls",
+    "image_url": "https://picsum.photos/seed/P015/400/300"
+  },
+  {
+    "id": "P016",
+    "name": "Neckband Bluetooth Earphones",
+    "category": "electronics",
+    "price": 1299,
+    "stock": 70,
+    "description": "Lightweight neckband earphones for workouts. Specs: Bluetooth 5.2, 30h playback, IPX5, magnetic buds, fast charge",
+    "image_url": "https://picsum.photos/seed/P016/400/300"
+  },
+  {
+    "id": "P017",
+    "name": "Gaming Headset",
+    "category": "electronics",
+    "price": 3999,
+    "stock": 25,
+    "description": "Over-ear gaming headset with boom microphone. Specs: 50mm drivers, 7.1 virtual surround, detachable mic, RGB, USB + 3.5mm",
+    "image_url": "https://picsum.photos/seed/P017/400/300"
+  },
+  {
+    "id": "P018",
+    "name": "Noise Cancelling Headphones",
+    "category": "electronics",
+    "price": 8999,
+    "stock": 12,
+    "description": "Premium over-ear headphones with active noise cancelling. Specs: Hybrid ANC, Bluetooth 5.3, 40h playback, 30mm drivers, multipoint, USB-C",
+    "image_url": "https://picsum.photos/seed/P018/400/300"
+  }
+]

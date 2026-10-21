@@ -1,0 +1,33 @@
+[
+  {
+    "id": "U001",
+    "name": "Alice Demo",
+    "email": "alice@example.com",
+    "password_hash": "598b10c1965158a965fa1b08b1fa3866$f74b1c4772fb5d1ba938e9456b907ffd512de8d1e54ee8150558137e61ccfdc27c9820a240c61e15e51da866eccf57e7da242a91397ee51da0a4696b8ffd9680",
+    "default_address": {
+      "line1": "12 Park Street",
+      "city": "Kolkata",
+      "postal_code": "700016",
+      "country": "IN"
+    }
+  },
+  {
+    "id": "U002",
+    "name": "Bob Demo",
+    "email": "bob@example.com",
+    "password_hash": "5927038d7ef268ec465e24851a4914fd$afc8ddc8f75f8e4340427af2aaa30a4e5e1486d264936be92c4b69de179587c1064cb5867b5df54973c1461014c63d7bf9eaef1bdf91fe0f9a38012dee463a6b",
+    "default_address": null
+  },
+  {
+    "id": "U003",
+    "name": "Sofikul Mallick",
+    "email": "sofikul@example.com",
+    "password_hash": "bfb262ea42b79a033aa3d0c5aa39a8ab$c9203a23179066f79f897868e95e8bf050a21cb897b6c7033af3bc33d01fa1a96b1ebd82f72d169c530394c83d8ff62e471c04910def7381a08e5f70787673fe",
+    "default_address": {
+      "line1": "12 Park Street",
+      "city": "Kolkata",
+      "postal_code": "700016",
+      "country": "IN"
+    }
+  }
+]
